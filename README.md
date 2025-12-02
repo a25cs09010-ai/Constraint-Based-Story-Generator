@@ -19,7 +19,8 @@ This repository contains a complete workflow for building a **hybrid neural–sy
 │
 ├── Fine_Tuning_and_Initial.ipynb     # Notebook for dataset prep and LoRA fine-tuning
 ├── Final_AI.ipynb                    # Complete hybrid story generator and evaluation system
-│
+├──mystery_result.json
+├──romance_story_result.json
 └── README.md                         # Documentation (this file)
 ```
 
