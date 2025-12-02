@@ -3,14 +3,7 @@
 
 This repository contains a complete workflow for building a **hybrid neural–symbolic story generation system**. It integrates a **fine-tuned LLaMA-3.2-1B model**, narrative evaluation metrics, rule-based constraint enforcement, and an iterative “generate → evaluate → refine” pipeline.
 
-The project is structured to support:
 
-* Modular experimentation
-* Easy reproducibility
-* Plug-and-play model loading (no re-training required)
-* Hybrid reasoning combining **neural LLM generation**, **Bayesian scoring**, and **symbolic rule checking**
-
----
 
 ## ** Repository Structure**
 
